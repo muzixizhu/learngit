@@ -5,4 +5,6 @@ Git tracks changes of files.
 
 this is a github learn file, I find it is very interesting to use git to do version controling.
 creating a new branck is quick.
+ 
+creating a new branck is quick & simple.
 
